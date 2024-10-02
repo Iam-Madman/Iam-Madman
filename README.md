@@ -2,21 +2,19 @@
 
 I'm an Electrical Engineering student with a strong passion for **IoT**, **microcontrollers**, **robotics**, and **drone technology**. I enjoy collaborating with fellow enthusiasts to explore the latest advancements in drone technology.
 
-## 🚀 About Me
-
-- 📚 **Interests**:
+## 📚 Interests
   - Internet of Things (IoT) applications.
   - Microcontroller programming and automation.
   - Robotics and drone technology.
 
 ## 🔧 Skills
-- Programming Languages: C, C++, Python
-- Platforms: Arduino, ESP32, Raspberry Pi
-- Technologies: IoT, Robotics, Drone technology
+  - Programming Languages: C, C++, Python
+  - Platforms: Arduino, ESP32, Raspberry Pi
+  - Technologies: IoT, Robotics, Drone technology
 
 ## 🌱 I’m currently learning
-- Advanced IoT applications.
-- Drone navigation and control systems.
+  - Advanced IoT applications.
+  - Drone navigation and control systems.
 
 Feel free to reach out if you have any questions or collaboration ideas!
 
